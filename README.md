@@ -5,7 +5,7 @@ I'm a passionate **Back-end Developer** with a love for building modern and user
 ## 🚀 About Me
 
 - 🔭 Currently working as a **Full-stack Developer**
-- 💡 Skilled in **PHP**, **Laravel**, **Vue.js**, and **JavaScript** (junior level, but not a beginner!)
+- 💡 Skilled in **PHP**, **Laravel**, **Vue.js**, and **JavaScript**
 - 🎨 Love building clean and intuitive UIs with **Tailwind CSS**
 - 🌱 Always learning and exploring new technologies
 
