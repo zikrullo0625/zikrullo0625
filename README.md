@@ -24,6 +24,8 @@ I'm a passionate **Back-end Developer** with a love for building modern and user
 - 🤝 Collaborated on several modern web applications
 - 🌐 Always focused on delivering clean, efficient, and scalable code
 
+![GitHub Streak](https://streak-stats.demolab.com?user=zikrullo0625&theme=tokyonight&hide_border=true)
+
 ## 📫 How to reach me
 
 - Telegram: [@zikrullo0625](https://t.me/zikrullo0625)
