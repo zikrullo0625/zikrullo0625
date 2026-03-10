@@ -36,19 +36,7 @@ I enjoy working with modern technologies and always strive to write **clean, mai
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zikrullo0625&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-
 <img src="https://streak-stats.demolab.com?user=zikrullo0625&theme=tokyonight&hide_border=true" height="180">
-
-</p>
-
----
-
-# 💻 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikrullo0625&layout=compact&theme=tokyonight&hide_border=true">
 
 </p>
 
