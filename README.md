@@ -24,7 +24,13 @@ I'm a passionate **Back-end Developer** with a love for building modern and user
 - 🤝 Collaborated on several modern web applications
 - 🌐 Always focused on delivering clean, efficient, and scalable code
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zikrullo0625&theme=tokyonight&hide_border=true)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zikrullo0625&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=zikrullo0625&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
 
 ## 📫 How to reach me
 
