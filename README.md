@@ -54,7 +54,7 @@ I enjoy working with modern technologies and always strive to write **clean, mai
 
 # 🌟 Achievements
 
-* 🚀 Built and maintain **Zinder**
+* 🚀 Working on **Hamroh**
 * 🍲 Developed **FoodAssist** to help users analyze food products
 * 🤝 Collaborated on several modern web applications
 * 🌐 Focused on writing **clean, efficient, and scalable code**
